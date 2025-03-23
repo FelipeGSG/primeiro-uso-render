@@ -1,6 +1,6 @@
 //CONFIGURAR BACKEND
 //Criar duas variáveis - Consumir framework expresse instância
-const express = require('express')
+const express = require('express');
 const app = express();
 
 //Rota para os arquivos estáticos (public)
